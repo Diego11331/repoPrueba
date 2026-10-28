@@ -1,0 +1,10 @@
+# Ignorar ejecutables de C
+*.exe
+*.out
+
+# Ignorar carpetas de compilación
+build/
+bin/
+
+# Ignorar configuraciones de VS Code
+.vscode/
